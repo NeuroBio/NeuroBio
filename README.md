@@ -2,7 +2,7 @@
 - [Portfolio](https://neurobio.github.io/Portfolio/pages/projects.html)
 - [Current Project](https://under-flotsam.web.app/)
 
-## Live Personal Projects
+## Live and Public Personal Projects
 Ordered newest to oldest
 - [Under Flotsam](https://under-flotsam.web.app/)
   - More interactive than a novel, less imagery than a visual novel, this game may be best described as "Visually Enhanced Reading."  You play as budding paranormal detective, Felix Battiste.  Extract clues from Leads and then investigate them by Searching at Locations or Interrogating your Contacts about them to gain new Leads to build up Theories.
