@@ -15,3 +15,8 @@ Ordered newest to oldest
   - A WASM project using Blazer to shove the C# Dotnet app I build to simulate bird song evolution in reesponse to evolutionary pressures online. 
 - [Arecace](https://arecace.com/home)
   - Website for my comic/novel/art worldbuilding project, Arecace.  It's the kind of hard fantasy that strives to feel more like sci fi.
+
+
+## Tools You can download
+- [Virtual Desktop](https://github.com/NeuroBio/virtual-desktop/releases)
+  - An electron app that allows teh creation of virtual shortcuts that live in collapsible categories.  Designed for power users who need their files to remain in deeply nested, rigid folder structures and need a flat way to access them without creating a messy desktop.  Ultimately it is a minimal  app for creating task-focused icon groups.
