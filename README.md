@@ -19,4 +19,4 @@ Ordered newest to oldest
 
 ## Tools You can download
 - [Virtual Desktop](https://github.com/NeuroBio/virtual-desktop/releases)
-  - An electron app that allows teh creation of virtual shortcuts that live in collapsible categories.  Designed for power users who need their files to remain in deeply nested, rigid folder structures and need a flat way to access them without creating a messy desktop.  Ultimately it is a minimal  app for creating task-focused icon groups.
+  - An electron app that allows the creation of virtual shortcuts that live in collapsible categories.  Designed for power users who need their files to remain in deeply nested, rigid folder structures but want a flat way to access them without creating a messy desktop.  Ultimately, it is a minimal app for creating task-focused icon groups.
