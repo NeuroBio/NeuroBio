@@ -4,6 +4,10 @@
 
 ## Live and Public Personal Projects
 Ordered newest to oldest
+- [Seashell Collection](https://neurobio.github.io/seashell-collection/pages/landing.html) 
+  - A static shell collection portflio, so I have a reference of what my specimens are at home when I am on shell-cation.  This is help to help prevent me from picking up the entire beach.  The one new thing here was using clouudflare as my image hosting site instead of firebase or github.
+- [Starkly Still](https://neurobio.github.io/Starkly-Still/pages/landing.html)
+  - A static writing portfolio website. It's where I am hosting my novels.  Nothing too technically fancy in this one, though it's improved my d3 implementations significnatly.
 - [Under Flotsam](https://under-flotsam.web.app/)
   - More interactive than a novel, less imagery than a visual novel, this game may be best described as "Visually Enhanced Reading."  You play as budding paranormal detective, Felix Battiste.  Extract clues from Leads and then investigate them by Searching at Locations or Interrogating your Contacts about them to gain new Leads to build up Theories.
 - [Ballast Visual Novel Engine](https://neurobio.github.io/Ballast-Visual-Novel-Engine/)
