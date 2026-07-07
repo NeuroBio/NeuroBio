@@ -1,7 +1,7 @@
 ## QuickLinks
 - [Portfolio](https://neurobio.github.io/Portfolio/pages/projects.html)
 - [Current Project](https://under-flotsam.web.app/)
-- [Company Github Account](https://github.com/rfsmart-crobinson)
+- [Company Github Account](https://github.com/rfsmart-crobinson) - Note: we migrated to GitHub in May 2026
 
 ## Live and Public Personal Projects
 Ordered newest to oldest
