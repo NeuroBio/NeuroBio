@@ -1,5 +1,5 @@
 ## QuickLinks
-- [Portfolio]((https://neurobio.github.io/Portfolio/pages/experience.html))
+- [Portfolio](https://neurobio.github.io/Portfolio/pages/experience.html)
 - [Current Project](https://under-flotsam.web.app/)
 - [Company Github Account](https://github.com/rfsmart-crobinson) - Note: we migrated to GitHub in May 2026
 
